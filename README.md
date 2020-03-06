@@ -10,3 +10,6 @@ Neste projeto será desenvolvido um pequeno sistema para que transportadoras pos
 * Mysql
 * Angular
 * Git
+
+# Metodologia Agil
+* Kaban: https://trello.com/b/kzmzURTB/selecaohivecloud
